@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-up0q9r.cuansalam.sbs/sitemap.xml
